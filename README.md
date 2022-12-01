@@ -8,7 +8,7 @@ Developing website for senior citizens which helps them to keep healthy
 # Preview: 
 ![image](https://user-images.githubusercontent.com/56499420/204755884-dc6165cf-b44d-4295-9eb0-57522a31ee03.png)
 
-## Features
+## Screenshots
 ### AlarmPreview
 ![image](https://user-images.githubusercontent.com/56499420/204756271-dfe96d4b-3430-4157-87f3-457eec3af109.png)
 
