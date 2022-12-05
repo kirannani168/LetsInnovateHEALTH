@@ -19,5 +19,5 @@ Developing website for senior citizens which helps them to keep healthy
 ### Alert Family Members
 ![image](https://user-images.githubusercontent.com/56499420/204757560-0efde950-78d2-4b5a-bf31-9c6bb6bbf176.png)
 
-#### FinalPreview
+## FinalPreview
 ![image](https://user-images.githubusercontent.com/56499420/204757896-3c68144a-4fbb-4ede-9129-f41cab798afa.png)
